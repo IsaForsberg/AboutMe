@@ -5,7 +5,7 @@
     --bg: #f4f3ee;
     --bg-alt: #ffffff;
     --text: #0f3d2e;
-    --accent: #194e3a;
+    --accent: #184d39;
     --hover: #11815c;
     --accent-light: #d9f2e6;
     --border: #c8d5cd;
@@ -15,6 +15,7 @@
 html, body {
     height: 100%;
     margin: 0;
+    padding: 0;
 }
 
 body {
@@ -24,6 +25,7 @@ body {
     background: var(--bg);
     color: var(--text);
     line-height: 1.6;
+    overflow-x: hidden;
 }
 
 main {
@@ -43,10 +45,10 @@ h1, h2, h3 {
 .site-header {
     display: flex;
     justify-content: space-between;
-    padding: 1rem 1.5rem;
+    padding: 1rem 1rem;
     background: var(--bg-alt);
     border-bottom: 1px solid var(--border);
-    width: 100%;
+    min-width: 0;
    
 }
 
@@ -75,7 +77,8 @@ nav a {
     font-weight: bold;
     white-space: nowrap; 
     flex-shrink: 1; 
-    font-size: 1rem;
+    font-size: 0.9rem;
+    min-width: 0;
 }
 
 
@@ -126,5 +129,6 @@ nav a:hover {
     font-size: 0.9rem;
     color: var(--accent-light);
     background-color: var(--accent);
-    width: 100%;
 }
+
+
