@@ -46,6 +46,7 @@ h1, h2, h3 {
     padding: 1rem 1.5rem;
     background: var(--bg-alt);
     border-bottom: 1px solid var(--border);
+    width: 100%;
    
 }
 
@@ -125,4 +126,5 @@ nav a:hover {
     font-size: 0.9rem;
     color: var(--accent-light);
     background-color: var(--accent);
+    width: 100%;
 }
