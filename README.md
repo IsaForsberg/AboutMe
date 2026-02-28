@@ -21,15 +21,69 @@ Projekt jag byggt
 
 Kontaktinformation
 
-Webbplatsen är byggd med fokus på:
 
-Semantisk HTML
+✔️ Checklista för projektet
 
-Tillgänglighet (ARIA)
+Struktur och semantik
 
-Responsiv design
+• Fyra sidor Om mig, Erfarenheter, Projekt och Kontakt.
+• Korrekt semantisk struktur på alla sidor: header, nav, main, section, article, footer.
+• Alla sidor och kort följer korrekt uppbyggnad med rubriker.
 
-Ren och strukturerad CSS
+
+Layout
+
+• Flexbox används i 
+• Grid används i 
+• Css filerna följer sidans struktur samt har relevata kommentarer
+
+
+Responsivitet
+
+• Mobil‑först‑design.
+• Brytpunkter vid 600px samt 900px
+• Responsiva bilder med rimliga filstorlekar.
+
+
+Typografi och färg
+
+• Alla sidor har samanhängade typografisk hierarki, radavstånd, textstorlek osv.
+• Färgtemat följer en grundmapp, kontrast är kontrollerad i Wave samt WEBaim, 
+
+
+Tillgänglighet
+
+• Alla bilder har alt‑texter.
+• Länkar är beskrivande och begripliga.
+• Webbplatsen kontrollerad med WAVE Web Accessibility Evaluation Tool och eventuella varningar hanterade eller motiverade.
+
+
+Formulär
+
+• En enkel kontaktsida med formulär (t.ex. namn, e‑post, meddelande).
+• Korrekt koppling mellan labels och inputs.
+
+
+Publicering eller körning
+
+• Webbplatsen är publicerad via GitHub.
+
+
+Kodkvalitet
+
+• Ingen död kod eller oanvända filer.
+• Inga brutna länkar.
+• Logisk mappstruktur, t.ex. /styles, /assets, /scripts.
+• Optimerade bilder.
+
+
+Kodvalidering
+
+• HTML validerad med W3C HTML Validator → 0 Errors.
+• CSS validerad med W3C CSS Validator → 0 Errors. Varningar om färger (se motivering nedan)
+
+
+
 
 ⚠️ Om CSS‑valideringen
 CSS‑valideringen visar ibland varningar för mina färgvariabler eftersom den inte alltid känner igen var(--färg) som ett giltigt värde. Detta är inte ett fel i koden.
