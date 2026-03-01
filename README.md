@@ -27,7 +27,9 @@ Kontaktinformation
 Struktur och semantik
 
 • Fyra sidor Om mig, Erfarenheter, Projekt och Kontakt.
+
 • Korrekt semantisk struktur på alla sidor: header, nav, main, section, article, footer.
+
 • Alla sidor och kort följer korrekt uppbyggnad med rubriker.
 
 
