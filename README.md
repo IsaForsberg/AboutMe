@@ -1,4 +1,4 @@
-#Isa Forsberg – Portfolio#
+# Isa Forsberg – Portfolio
 
 Välkommen till min portfolio! Här samlar jag mina projekt, erfarenheter och min resa mot att bli backendutvecklare. Jag studerar Backend Webbutveckling på Grit Academy och har ett växande intresse för IT‑säkerhet, robusta system och teknik som gör skillnad i samhället.
 
@@ -26,7 +26,7 @@ Kontaktinformation
 
 ✔️ Checklista för projektet
 
-#Struktur och semantik
+# Struktur och semantik
 
 • Fyra sidor Om mig, Erfarenheter, Projekt och Kontakt.
 
