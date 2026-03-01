@@ -14,7 +14,7 @@ Alternativt kan du ladda ner projektet och öppna det via index.html.
 
 
 
-# 📌 Om projektet
+## 📌 Om projektet
 Det här projektet är min personliga webbplats där jag presenterar:
 
 Om mig
@@ -26,16 +26,16 @@ Projekt jag byggt
 Kontaktinformation
 
 
-# Att Göra
+## Att Göra
 
 Det jag skulle vilja lägga till är fungerande länkar till mina kodprojekt då att besökarna kan testa och använda projekten jag skapat. 
 
 Bygga ett fungerande formulär så att det är kopplat till min mail etc så att jag får informationen till mig. 
 
 
-# ✔️ Checklista för projektet
+## ✔️ Checklista för projektet
 
-#Struktur och semantik
+### Struktur och semantik
 
 • Fyra sidor Om mig, Erfarenheter, Projekt och Kontakt.
 
@@ -44,7 +44,7 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 • Alla sidor och kort följer korrekt uppbyggnad med rubriker.
 
 
-#Layout
+### Layout
 
 • Flexbox används i Header, i kort (Om Mig, Projekt och Kontakt)
 
@@ -53,7 +53,7 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 • Css filerna följer sidans struktur samt har relevata kommentarer
 
 
-#Responsivitet
+### Responsivitet
 
 • Mobil‑först‑design.
 
@@ -62,14 +62,14 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 • Responsiva bilder med rimliga filstorlekar.
 
 
-#Typografi och färg
+### Typografi och färg
 
 • Alla sidor har samanhängade typografisk hierarki, radavstånd, textstorlek osv.
 
 • Färgtemat följer en grundmapp, kontrast är kontrollerad i Wave samt WEBaim, 
 
 
-#Tillgänglighet
+### Tillgänglighet
 
 • Alla bilder har alt‑texter.
 
@@ -78,17 +78,17 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 • Webbplatsen kontrollerad med WAVE Web Accessibility Evaluation Tool.
 
 
-#Formulär
+### Formulär
 
 • En enkel kontaktsida med formulär med namn, e‑post, meddelandefält samt kontaktinformation. 
 
 
-#Publicering eller körning
+### Publicering eller körning
 
 • Webbplatsen är publicerad via GitHub.
 
 
-#Kodkvalitet
+### Kodkvalitet
 
 • Ingen död kod eller oanvända filer.
 
@@ -99,7 +99,7 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 • Optimerade bilder.
 
 
-#Kodvalidering
+### Kodvalidering
 
 • HTML validerad med W3C HTML Validator → 0 Errors och 0 Varningar
 
@@ -107,5 +107,5 @@ Bygga ett fungerande formulär så att det är kopplat till min mail etc så att
 
 
 
-⚠️ Om CSS‑valideringen
+### ⚠️ Om CSS‑valideringen
 CSS‑valideringen visar ibland varningar för mina färgvariabler eftersom den inte alltid känner igen var(--färg) som ett giltigt värde. Detta är inte ett fel i koden och varningarna kan därför ignoreras.
