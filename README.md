@@ -24,9 +24,9 @@ Projekt jag byggt
 Kontaktinformation
 
 
-✔️ Checklista för projektet
+# ✔️ Checklista för projektet
 
-# Struktur och semantik
+#Struktur och semantik
 
 • Fyra sidor Om mig, Erfarenheter, Projekt och Kontakt.
 
