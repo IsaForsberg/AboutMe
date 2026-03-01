@@ -1,8 +1,9 @@
 # Isa Forsberg – Portfolio
 
-Välkommen till min portfolio! Här samlar jag mina projekt, erfarenheter och min resa mot att bli backendutvecklare. Jag studerar Backend Webbutveckling på Grit Academy och har ett växande intresse för IT‑säkerhet, robusta system och teknik som gör skillnad i samhället.
+Välkommen till min portfolio! Här samlar jag mina projekt, erfarenheter och min resa mot att bli backendutvecklare.
 
 Den här webbplatsen är skapad för potentiella arbetsgivare som vill få en tydligare bild av vem jag är, vad jag kan och hur jag arbetar.
+
 
 🌐 Besök webbplatsen
 Du kan öppna sidan genom att klistra in länken i din webbläsare:
@@ -12,7 +13,8 @@ https://isaforsberg.github.io/AboutMe/
 Alternativt kan du ladda ner projektet och öppna det via index.html.
 
 
-📌 Om projektet
+
+# 📌 Om projektet
 Det här projektet är min personliga webbplats där jag presenterar:
 
 Om mig
@@ -22,6 +24,13 @@ Mina erfarenheter
 Projekt jag byggt
 
 Kontaktinformation
+
+
+# Att Göra
+
+Det jag skulle vilja lägga till är fungerande länkar till mina kodprojekt då att besökarna kan testa och använda projekten jag skapat. 
+
+Bygga ett fungerande formulär så att det är kopplat till min mail etc så att jag får informationen till mig. 
 
 
 # ✔️ Checklista för projektet
